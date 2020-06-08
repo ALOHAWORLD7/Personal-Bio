@@ -1,3 +1,3 @@
 # blog
 
-This is my prtfolio/blog. Please feel free to look around.
+This is my portfolio/blog. Please feel free to look around.
