@@ -1,0 +1,56 @@
+body{
+    margin: 2;
+    padding: 1%;
+    background-image: url(https://www.freepngimg.com/thumb/united_states/86509-plant-united-leaf-veteran-states-veterans-day.png);
+    background-color: orange;
+    align-items: center;
+    
+}
+
+.header1 {
+    font-size: 40px;
+    font-weight: bolder;
+
+}
+
+.container1 {
+    display: grid;
+    align-items: center; 
+    justify-content: center;
+}
+
+.container{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    display: block;
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    margin: 10px;
+    width: 200px;
+    height: 70px;
+    background-color: yellow;
+    border-radius: 10px;
+    outline: none;
+    border-color: teal;
+    cursor: pointer;
+}
+
+.btn1:hover{
+    transform: rotateZ(20deg)
+}
+
+.btn2:hover{
+    transform: rotateZ(-20deg)
+}
+
+.btn3:hover{
+    transform: rotateX(20deg)
+}
+
+.btn4:hover{
+    transform: rotateX(-20deg)
+}
