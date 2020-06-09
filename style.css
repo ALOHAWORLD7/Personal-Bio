@@ -1,23 +1,23 @@
 body{
     margin: 2;
     padding: 1%;
-    background-image: url(https://www.freepngimg.com/thumb/united_states/86509-plant-united-leaf-veteran-states-veterans-day.png);
+    background-size: contain;
     background-color: orange;
     align-items: center;
     
 }
 
-.header1 {
+.center {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border: 10px solid black;
+    height:60px;
+    width: 600px;
     font-size: 40px;
-    font-weight: bolder;
-
+    font-weight: bolder  
 }
 
-.container1 {
-    display: grid;
-    align-items: center; 
-    justify-content: center;
-}
 
 .container{
     display: grid;
